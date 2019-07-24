@@ -81,7 +81,6 @@ function init() {
 };
 
 
-
 function nextPlayer() {
     activePlayer === 0 ? activePlayer = 1 : activePlayer = 0;
     roundScore = 0;
